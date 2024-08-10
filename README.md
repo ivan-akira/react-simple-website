@@ -21,6 +21,20 @@ Learning references:
 - Mastering 'useRef' in React with TypeScript: 4 Different Use-Cases for 'useRef' (https://dev.to/kirubelkinfe/mastering-useref-in-react-with-typescript-4-different-use-cases-for-useref-2a87) by [Kirubel Kinfe](https://dev.to/kirubelkinfe)
 - Deploying a Static Site (https://vitejs.dev/guide/static-deploy)
 
+## Run Website Locally
+
+Make sure you have Node.js version `v20.16.0` (this is the version being used to develop this website).
+
+Install the dependency first using following command.
+```bash
+npm install
+```
+
+Next, run the website using following command.
+```bash
+npm run dev
+```
+
 ## Pages
 
 ### Login Page
