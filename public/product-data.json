@@ -1,0 +1,46 @@
+{
+  "productData": [
+    {
+      "productId": 1,
+      "productName": "Product A",
+      "image": "product-a.png",
+      "price": 1700800.45,
+      "currency": "IDR"
+    },
+    {
+      "productId": 2,
+      "productName": "Product B",
+      "image": "product-b.png",
+      "price": 1900000,
+      "currency": "IDR"
+    },
+    {
+      "productId": 3,
+      "productName": "Product C",
+      "image": "product-c.png",
+      "price": 4500000,
+      "currency": "IDR"
+    },
+    {
+      "productId": 4,
+      "productName": "Product D",
+      "image": "product-d.png",
+      "price": 170890000,
+      "currency": "IDR"
+    },
+    {
+      "productId": 5,
+      "productName": "Product E",
+      "image": "product-e.png",
+      "price": 900817,
+      "currency": "IDR"
+    },
+    {
+      "productId": 6,
+      "productName": "Product F",
+      "image": "product-f.png",
+      "price": 19450817,
+      "currency": "IDR"
+    }
+  ]
+}
